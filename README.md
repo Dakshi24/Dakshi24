@@ -95,9 +95,13 @@ I have also learned a lot from teams around me through CodePath, Citadel Credit 
 ### &nbsp;github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dakshi24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22d3ee&icon_color=f6c85f&text_color=dbeafe&bg_color=07111f" height="170" alt="Dakshi's GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dakshi24&theme=github_dark" width="92%" alt="Dakshi's GitHub profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshi24&theme=github_dark" height="170" alt="Repos per language"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshi24&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=dbeafe&bg_color=07111f" height="170" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dakshi24&theme=github_dark" height="170" alt="Most committed languages"/>
 </p>
 
 <p align="center">
