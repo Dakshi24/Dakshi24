@@ -1,9 +1,125 @@
-# Dakshi Kaushik // About Me:
-🔭 I’m currently working on<br>AI-powered and full-stack web applications, social-impact projects like LegalEase and AccessMap, and data science research focused on information diffusion and network analysis.<br><br>👯 I’m looking to collaborate on<br>Full-stack web apps, hackathon projects, AI-for-social-good ideas, accessibility-focused technology, and open-source tools that make tech more inclusive.<br><br>🤝 I’m looking for help with<br>Scaling React + TypeScript apps, improving cloud deployments, and exploring best practices for integrating AI models securely into production systems.<br><br>🌱 I’m currently learning<br>Advanced React patterns, cloud infrastructure, Salesforce Agentforce & Einstein AI, and applying machine learning models to real-world datasets.<br><br>💬 Ask me about<br>React & TypeScript, AI chatbots, Salesforce automation, hackathons, accessibility in tech, or getting started with research in computer science.<br><br>⚡ Fun fact<br>I love building tech that solves real problems—and most of my best project ideas start at hackathons or late-night debugging sessions ☕💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0f3b68,100:22d3ee&height=220&section=header&text=hey%2C%20I%27m%20Dakshi%20%F0%9F%91%8B%F0%9F%8F%BD&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=CS%20junior%20%C2%B7%20web%20design%20%C2%B7%20automation%20workflows%20%C2%B7%20Salesforce&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hey, I'm Dakshi"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=console.log(%22open+to+collaborating+opportunities+%F0%9F%91%80%22);git+commit+-m+%22ship+it+with+style%22;while(alive)+%7B+learn()+%F0%9F%93%9A;+build()+%F0%9F%92%BB;+debug()+%F0%9F%94%8D;+repeat()+%E2%9C%A8+%7D;Salesforce+%2B+web+design+%2B+automation+workflows" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="center">
+  <a href="https://dakshi24.github.io/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-dakshi24.github.io-22d3ee?style=for-the-badge&labelColor=07111f&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.salesforce.com/trailblazer/dakshi24">
+    <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Trailhead-Ranger-2563eb?style=for-the-badge&labelColor=07111f" alt="Salesforce Trailhead"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dakshi24&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+dakshi = {
+    "school": "Junior @ University of Delaware",
+    "major": "Computer Science",
+    "building": "web apps, AI tools, Salesforce workflows, and tech for social good",
+    "learning": ["advanced React", "Agentforce", "automation systems", "cloud deployments"],
+    "stack": ["Python", "React", "TypeScript", "JavaScript", "Java", "Salesforce"],
+    "certs": ["Agentforce Specialist", "Platform Administrator", "AI Associate"],
+    "hobbies": ["archery", "Bollywood movies", "music", "photography", "travelling"],
+    "reach_me": "dakshi24.github.io"
+}
+```
+
+---
+
+### &nbsp;about me
+
+I am a junior Computer Science student at the University of Delaware, and my interests sit where web design, automation workflows, Salesforce, data, and useful product thinking meet.
+
+I like building things that are polished and practical: projects like food rescue platforms, legal aid tools, accessibility maps, data-flow analysis, and dashboards that make complicated information easier to understand.
+
+I have also learned a lot from teams around me through CodePath, Citadel Credit Union, UD AV Tech Crew, Girls Who Code, Salesforce Trailhead, and the UD CIS Department.
+
+---
+
+### &nbsp;tech stack
+
+**web design & frontend**
+
+![React](https://img.shields.io/badge/React-07111f?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f6c85f?style=for-the-badge&logo=javascript&logoColor=07111f)
+![HTML5](https://img.shields.io/badge/HTML5-0f3b68?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-22d3ee?style=for-the-badge&logo=css3&logoColor=07111f)
+
+**automation & cloud**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-2563eb?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-22d3ee?style=for-the-badge&logo=salesforce&logoColor=07111f)
+![Flow Builder](https://img.shields.io/badge/Flow%20Builder-0f3b68?style=for-the-badge&logo=salesforce&logoColor=white)
+![VisualCron](https://img.shields.io/badge/VisualCron-07111f?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563eb?style=for-the-badge&logo=docker&logoColor=white)
+
+**data & AI**
+
+![Python](https://img.shields.io/badge/Python-07111f?style=for-the-badge&logo=python&logoColor=f6c85f)
+![SQL](https://img.shields.io/badge/SQL-0f3b68?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2563eb?style=for-the-badge&logo=pytorch&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-22d3ee?style=for-the-badge&logo=python&logoColor=07111f)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-f6c85f?style=for-the-badge&logo=googlegemini&logoColor=07111f)
+
+**engineering tools**
+
+![Java](https://img.shields.io/badge/Java-0f3b68?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-07111f?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-22d3ee?style=for-the-badge&logo=supabase&logoColor=07111f)
+![Git](https://img.shields.io/badge/Git-f6c85f?style=for-the-badge&logo=git&logoColor=07111f)
+![GitHub](https://img.shields.io/badge/GitHub-07111f?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### &nbsp;featured projects
+
+| project | what it does | stack |
+| --- | --- | --- |
+| [One More Plate](https://github.com/Dakshik/One-More-Plate) | real-time food rescue platform connecting surplus food, volunteers, and shelters | React, TypeScript, Gemini, Supabase |
+| [LegalEase](https://github.com/Dakshi24/Legal-ease) | AI-powered legal aid chatbot for simplified legal guidance | Python, JavaScript, TypeScript, React |
+| [Access-Map](https://github.com/Dakshi24/Access-Map) | accessible route and location discovery for inclusive navigation | TypeScript, accessibility, maps |
+| [Higgs Cascade Data Flow](https://github.com/Dakshi24/Higgs-Cascade-Data-Flow) | network analysis of information diffusion around Higgs boson discovery data | Python, NetworkX, Gephi |
+
+---
+
+### &nbsp;github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dakshi24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22d3ee&icon_color=f6c85f&text_color=dbeafe&bg_color=07111f" height="170" alt="Dakshi's GitHub stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshi24&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=dbeafe&bg_color=07111f" height="170" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dakshi24&theme=tokyonight&hide_border=true&ring=22d3ee&fire=f6c85f&currStreakLabel=22d3ee&background=07111f&dates=dbeafe&currStreakNum=ffffff&sideLabels=dbeafe&sideNums=ffffff" width="70%" alt="GitHub streak"/>
+</p>
+
+---
+
+### &nbsp;find me
+
+<p align="center">
+  <a href="https://dakshi24.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=07111f" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dakshi-kaushik">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/dakshi24">
+    <img src="https://img.shields.io/badge/Trailhead-0f3b68?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:2563eb,100:07111f&height=120&section=footer" width="100%" alt="Footer wave"/>
+</p>
