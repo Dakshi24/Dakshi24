@@ -29,6 +29,7 @@ dakshi = {
     "stack": ["Python", "React", "TypeScript", "JavaScript", "Java", "Salesforce"],
     "certs": ["Agentforce Specialist", "Platform Administrator", "AI Associate"],
     "hobbies": ["archery", "Bollywood movies", "music", "photography", "travelling"],
+    "alt_github": "github.com/Dakshik",
     "reach_me": "dakshi24.github.io"
 }
 ```
@@ -112,6 +113,9 @@ I have also learned a lot from teams around me through CodePath, Citadel Credit 
   </a>
   <a href="https://www.linkedin.com/in/dakshi-kaushik">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Dakshik">
+    <img src="https://img.shields.io/badge/Alt%20GitHub-Dakshik-07111f?style=for-the-badge&logo=github&logoColor=white" alt="Alternate GitHub"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/dakshi24">
     <img src="https://img.shields.io/badge/Trailhead-0f3b68?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
