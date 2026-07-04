@@ -99,12 +99,6 @@ I have also learned a lot from teams around me through CodePath, Citadel Credit 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dakshi24&theme=github_dark" height="170" alt="Repos per language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dakshi24&theme=github_dark" height="170" alt="Most committed languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dakshi24&theme=tokyonight&hide_border=true&ring=22d3ee&fire=f6c85f&currStreakLabel=22d3ee&background=07111f&dates=dbeafe&currStreakNum=ffffff&sideLabels=dbeafe&sideNums=ffffff" width="70%" alt="GitHub streak"/>
 </p>
 
